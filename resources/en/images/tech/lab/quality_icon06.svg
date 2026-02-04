@@ -1,0 +1,10 @@
+<svg width="57" height="56" viewBox="0 0 57 56" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M49 33H39V41H49V33Z" stroke="#89A8EA" stroke-width="3" stroke-linejoin="round"/>
+<path d="M54 41H33V52H54V41Z" stroke="#89A8EA" stroke-width="3" stroke-linejoin="round"/>
+<path d="M2.5 52H1V53.5H2.5V52ZM2.5 44V42.5C1.67157 42.5 1 43.1716 1 44H2.5ZM21 44H22.5C22.5 43.1716 21.8284 42.5 21 42.5V44ZM21 52V53.5H22.5V52H21ZM2.5 52H4V44H2.5H1V52H2.5ZM21 44H19.5V52H21H22.5V44H21ZM21 52V50.5H2.5V52V53.5H21V52ZM18.5 44V45.5H21V44V42.5H18.5V44ZM17.5 36L16.0116 36.1861L17.0116 44.1861L18.5 44L19.9884 43.8139L18.9884 35.8139L17.5 36ZM2.5 44V45.5H5V44V42.5H2.5V44ZM5 44V45.5H18.5V44V42.5H5V44ZM5 44L6.49769 44.0832L6.99769 35.0832L5.5 35L4.00231 34.9168L3.50231 43.9168L5 44Z" fill="#89A8EA"/>
+<path d="M14.5 20.5L25 11M20 26L30 15M36.5 10.5L44 20M33 15L41.5 22M41 23.5L33.5 27.5V33.5M46.5 23.5L53.5 27.5V33.5" stroke="#89A8EA" stroke-width="3"/>
+<circle cx="12" cy="29" r="9" stroke="#89A8EA" stroke-width="3"/>
+<circle cx="12" cy="29" r="4" stroke="#89A8EA" stroke-width="3"/>
+<circle cx="31" cy="9" r="6" stroke="#89A8EA" stroke-width="3"/>
+<circle cx="44" cy="23" r="3" stroke="#89A8EA" stroke-width="3"/>
+</svg>
